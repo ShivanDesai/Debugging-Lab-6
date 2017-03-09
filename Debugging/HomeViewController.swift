@@ -2,8 +2,8 @@
 //  HomeViewController.swift
 //  Debugging
 //
-//  Created by Nicholas Aiwazian on 2/4/16.
-//  Copyright © 2016 codepath. All rights reserved.
+//  Created by Shivan Desai on 3/9/17.
+//  Copyright © 2017 Shivan Desai. All rights reserved.
 //
 
 import UIKit

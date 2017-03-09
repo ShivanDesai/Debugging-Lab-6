@@ -262,7 +262,6 @@
 				TargetAttributes = {
 					1143CB411C641A25008F767A = {
 						CreatedOnToolsVersion = 7.2.1;
-						DevelopmentTeam = TA5M78D3VY;
 						LastSwiftMigration = 0820;
 					};
 				};
@@ -491,6 +490,7 @@
 			baseConfigurationReference = 1C83F76CFC77AA4CBA4ECC23 /* Pods-Debugging.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Debugging/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.codepath.Debugging;
@@ -504,6 +504,7 @@
 			baseConfigurationReference = F66650C8636C2908FC6DE59B /* Pods-Debugging.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Debugging/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.codepath.Debugging;
